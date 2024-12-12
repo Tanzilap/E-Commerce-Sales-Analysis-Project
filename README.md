@@ -1,9 +1,8 @@
 # E-commerce Sales Data Analysis
 ## Project Overview
-1.	Extract and transform data using SQL for structured analysis.
-2.	Analyze and clean data using Pandas for insightful exploration.
-3.  Visualization show key insight throug inuitative visualization
-4.  Version control use github for collaboration and documentation
+1. **Extract and transform data:** Use SQL to structure and prepare data for analysis.
+2. **Analyze and clean data:** Leverage Pandas for efficient data exploration and cleaning.
+3. **Visualize key insights:** Present findings through clear and intuitive visualizations.
 
 ## Data Description:
 There are four tables
@@ -13,7 +12,7 @@ There are four tables
 ○	Customers: Customer ID, Name, Region, Segment.<br>
 ○	Sales: Order ID, Revenue, Discounts, Taxes.<br>
 
-## Steps 
+## Steps of Project
 ### SQL Analysis:
 
 **Objective:** Use SQLite database and perform SQL queries to extract insight
@@ -23,7 +22,7 @@ There are four tables
    3. Revenue contribution by customer segments.
    4. Identify the top regions for sales.
 
-### Pandas Analysis:
+## Pandas Analysis:
 **Objective:** Clean data, perform EDA, and create new columns 
 
 ### 1.	Clean Data:
@@ -31,36 +30,33 @@ There are four tables
 ■	Remove duplicate rows.<br>
 
 ### 3.	EDA:
-■	Analyze sales trends
-■ Customer behaviors
-■ Product performance
+■	Analyze sales trends<br>
+■ Customer behaviors<br>
+■ Product performance<br>
 
 ### 4.	Feature Engineering:
- Create new columns like
-■ Month 
-■ Revenue per product
-■ Customer lifetime value
+ Create new columns like<br>
+■ Month <br>
+■ Revenue per product<br>
+■ Customer lifetime value<br>
 
-### 5. Basic Visualization Tasks
+## Basic Visualization 
 **Objective:** Create insightful visualizations using Matplotlib and Seaborn.
 
-○	Visualize monthly sales revenue.
-○	Show the top 5 products by sales quantity.
-○	Display revenue contribution by customer segments and top regions.
-
-### 6. Version Control with GitHub
-
-○	README.md: Explaining the project, dataset, and key insights.
-○	Requirements.txt: Listing the libraries and tools used.
-○	Project Documentation: Highlighting the methods and steps taken.
+○	Visualize monthly sales revenue.<br>
+○	Show the top 5 products by sales quantity.<br>
+○	Display revenue contribution by customer segments and top regions.<br>
 
 ## Analysis and Insights
-The analysis aims to answer the following business-level questions:
-**1.  What are top 5 products?
-2.  Which region , segment and category has highest revenue?
-3.  What are the sales revenue by month?
-4.  Understand Customer lifetime value**
+The analysis is focused on addressing the following key business questions:
+
+1. Which are the top 5 products by performance?
+2. Which region, segment, and category generate the highest revenue?
+3. How does sales revenue vary by month?
+4. What is the Customer Lifetime Value (CLV)?
 
 # Conclusion
 In conclusion, our sales data analysis has provided critical insights to support informed decision-making across multiple aspects of the business. Key findings include the identification of peak sales months, best-selling products, top revenue-generating segments, regions, and categories. These insights enable the business to optimize operations, refine marketing strategies, and maximize revenue potential. Regular analysis and continuous monitoring of sales trends will be essential to adapt to changing market conditions, seize growth opportunities, and maintain a competitive edge.
 
+# Contact
+[Linkedin](www.linkedin.com/in/tanzila-pervaiz)
