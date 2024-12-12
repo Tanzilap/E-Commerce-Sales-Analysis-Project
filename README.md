@@ -8,10 +8,10 @@
 ## Data Description:
 There are four tables
 
-○	Orders: Transaction IDs, Order Date, Customer ID, Product ID, Quantity, Total Amount.
-○	Products: Product ID, Product Name, Category, Price.
-○	Customers: Customer ID, Name, Region, Segment.
-○	Sales: Order ID, Revenue, Discounts, Taxes.
+○	Orders: Transaction IDs, Order Date, Customer ID, Product ID, Quantity, Total Amount.<br>
+○	Products: Product ID, Product Name, Category, Price.<br>
+○	Customers: Customer ID, Name, Region, Segment.<br>
+○	Sales: Order ID, Revenue, Discounts, Taxes.<br>
 
 ## Steps 
 ### SQL Analysis:
@@ -27,8 +27,8 @@ There are four tables
 **Objective:** Clean data, perform EDA, and create new columns 
 
 ### 1.	Clean Data:
-■	Handle missing values.
-■	Remove duplicate rows.
+■	Handle missing values.<br>
+■	Remove duplicate rows.<br>
 
 ### 3.	EDA:
 ■	Analyze sales trends
