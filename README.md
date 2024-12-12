@@ -15,8 +15,8 @@ There are four tables
 ## Steps of Project
 ### SQL Analysis:
 
-**Objective:** Use SQLite database and perform SQL queries to extract insight
-**SQL Task**
+**Objective:** Use SQLite database and perform SQL queries to extract insight<br>
+**SQL Task**<br>
    1.	Total sales revenue by month.
    2.	Top 5 best-selling products.
    3. Revenue contribution by customer segments.
@@ -59,4 +59,5 @@ The analysis is focused on addressing the following key business questions:
 In conclusion, our sales data analysis has provided critical insights to support informed decision-making across multiple aspects of the business. Key findings include the identification of peak sales months, best-selling products, top revenue-generating segments, regions, and categories. These insights enable the business to optimize operations, refine marketing strategies, and maximize revenue potential. Regular analysis and continuous monitoring of sales trends will be essential to adapt to changing market conditions, seize growth opportunities, and maintain a competitive edge.
 
 # Contact
-[Linkedin](www.linkedin.com/in/tanzila-pervaiz)
+[LinkedIn: Tanzila Pervaiz](https://www.linkedin.com/in/tanzila-pervaiz)
+
